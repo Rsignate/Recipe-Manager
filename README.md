@@ -20,7 +20,7 @@ Clone the repository to your local machine:
 bash
 
 Copy code
-git clone https://github.com/Rsignaterecipe-manager.git
+git clone https://github.com/Rsignate/Recipe-Manager/edit/main/README.md
 
 Open the project in your preferred IDE.
 Build and run the Main class to start the application.
